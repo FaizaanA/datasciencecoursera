@@ -1,2 +1,4 @@
 This is a message to the world
 ##HelloWorld
+*Hi
+*Hello
